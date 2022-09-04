@@ -1,6 +1,6 @@
 # Taller de Objetos en Java
 
-A continuación se presenta un taller sobre el manejo de clases y objetos en java.
+A continuación se presenta el taller sobre el manejo de clases y objetos en Java.
 
 ## Clases
 
